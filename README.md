@@ -1,4 +1,4 @@
-# Semester End Project 🎓
+# Semester End Project 
 
 This repository contains my **semester end project**, which includes two simple programs:
 1. **Calculator**
@@ -8,9 +8,9 @@ These projects were created to demonstrate basic programming concepts such as lo
 
 ---
 
-## 📌 Projects Included
+##  Projects Included
 
-### 1️⃣ Simple Calculator
+### 1️ Simple Calculator
 A basic calculator program that performs fundamental arithmetic operations:
 - Addition
 - Subtraction
@@ -24,7 +24,7 @@ A basic calculator program that performs fundamental arithmetic operations:
 
 ---
 
-### 2️⃣ Tic Tac Toe Game
+### 2️ Tic Tac Toe Game
 A two-player Tic Tac Toe game played in the console.
 
 **Features:**
@@ -35,7 +35,7 @@ A two-player Tic Tac Toe game played in the console.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Programming Language: C++
 - Platform: Console-based application
 
